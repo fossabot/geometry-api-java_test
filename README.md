@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Esri/geometry-api-java.png?branch=master)](https://travis-ci.org/Esri/geometry-api-java)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fgeometry-api-java_test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fgeometry-api-java_test?ref=badge_shield)
 
 # geometry-api-java
 
@@ -69,3 +70,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [license.txt](https://raw.github.com/Esri/geometry-api-java/master/license.txt) file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fgeometry-api-java_test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fgeometry-api-java_test?ref=badge_large)
